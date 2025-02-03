@@ -1,0 +1,23 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Telephone Circuit v1.0.PcbDoc   03/02/2025  5:26:20 pm
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Telephone Circuit v1.0-RoundHoles.TXT
+ASCII SlotHoles File : Telephone Circuit v1.0-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             213       PTH        831.52mm (32.74inch)
+T2      0.6mm (24mil)                                             Slot              8         PTH        166.64mm (6.56inch)
+T3      0.9mm (35mil)                                             Round             4         PTH        12.19mm (0.48inch)
+T4      1mm (39mil)                                               Round             10        PTH        48.22mm (1.90inch)
+T5      1.3mm (51mil)                                             Round             1         PTH        0.00mm (0.00inch)
+T6      1.4mm (55mil)                                             Round             2         PTH        5.08mm (0.20inch)
+T7      0.62mm (24mil)                                            Round             2         NPTH       5.78mm (0.23inch)
+T8      2.5mm (98mil)                                             Round             1         NPTH       0.00mm (0.00inch)
+T9      3.1mm (122mil)                                            Round             4         NPTH       214.00mm (8.43inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              245
+
+Total Processing Time (hh:mm:ss) : 00:00:00
